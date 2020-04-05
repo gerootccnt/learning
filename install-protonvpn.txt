@@ -1,0 +1,11 @@
+# install protonvpn
+#1. daftar dulu akun di :
+https://account.protonvpn.com
+#2. install paket :
+apt install -y openvpn dialog python3-pip python3-setuptools
+pip3 install protonvpn-cli
+apt-get install openvpn
+apt-get install network-manager-openvpn-gnome
+apt-get install resolvconf
+#3. configurasi, download dan connect :
+    #lihat di vidio 
